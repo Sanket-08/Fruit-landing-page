@@ -1,4 +1,4 @@
-# landing-pages
+# landing-page
 
 
 Welcome to this repository! Here, I have developed web pages utilizing HTML and CSS.
